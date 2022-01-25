@@ -1,8 +1,8 @@
 1. What is a javascript function? 
-
+A set of instructions to be called. The function will define the actions that will be run.
 
 2. What is a callback?
-
+A type of function that is run after another function or passed as an argument within another function.
 
 3. can callbacks only be used in asynchronous code?
 
@@ -11,5 +11,7 @@
 
 
 5. Explain javascript Closures?
+A closure is a way of calling a variable from another function that is NOT within global scope.
 
 6. explain try/catch blocks
+
