@@ -5,13 +5,14 @@ A set of instructions to be called. The function will define the actions that wi
 A type of function that is run after another function or passed as an argument within another function.
 
 3. can callbacks only be used in asynchronous code?
-
+No.
 
 4. Why are javascript functions first-class citizens?
-
+The functions are what holds all the "power" within the language. 
 
 5. Explain javascript Closures?
 A closure is a way of calling a variable from another function that is NOT within global scope.
 
 6. explain try/catch blocks
 
+Basically, you are saying TRY this function, if not CATCH these errors here for me to see. 
